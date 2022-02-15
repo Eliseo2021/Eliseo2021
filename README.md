@@ -6,7 +6,7 @@
 
 🔭 I am currently working on the E-commerce website
 
-🌱 I am currently learning Deep cloud observability & advanced AIOps are key to scaling DevOps.
+🌱 I am currently learning that cloud observability and advanced AIOps are key to scaling DevOps.
 
 👯 I'm INTERESTED IN collaborating on application development and DevOps.
 
