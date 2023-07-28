@@ -6,8 +6,6 @@
 
 🔭 I am currently working on the E-commerce website
 
-🌱 I am currently learning that cloud observability and advanced AIOps are key to scaling DevOps.
-
 👯 I'm INTERESTED IN collaborating on application development and DevOps.
 
 🤝 I'm looking to COLLABORATE IN collaborating on app development with ReactJS, React Native.
